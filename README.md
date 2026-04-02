@@ -1,0 +1,55 @@
+# NIKI – Keeping Tabs
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.57] Lose it
+[00:13.92] You left without saying goodbye (fuck, fuck, fuck)
+[00:18.89] Don't cry, don't cry, don't cry, don't cry
+[00:24.37] I ball a fist and die inside
+[00:29.05] I wish I didn't, but regrettably, I entirely understand why you did it
+[00:35.32] Take one step forward and two jumps back
+[00:37.96] One hand on the gate of this cul-de-sac
+[00:41.12] Some cursed part of me wants to be cornered
+[00:43.60] Right into it even if we crack
+[00:46.57] You left early and you arrived too late
+[00:49.24] Just right in time to be a huge mistake
+[00:52.16] So I wish you well and I wish you far away
+[00:57.93] This was never real, I'll say it 'til I believe it
+[01:01.28] I wish I never
+[01:03.69] Met you, you are the
+[01:06.44] Worst thing that I'm still
+[01:09.41] Keeping tabs on for some stupid reason
+[01:12.32] You were just being
+[01:15.02] Nice, now I fully believe you're out
+[01:17.00] There somewhere also
+[01:20.81] Keeping tabs on how I might be feeling
+[01:24.65] For some stupid reason
+[01:27.33] I keep on believing
+[01:30.29] You care and you're reeling too
+[01:33.01] I don't even know you
+[01:35.84] Drowning in my own
+[01:40.32] Sad, imagined fantasy of who you could be
+[01:44.17] The reality is you
+[01:46.21] Unironically love personality tests
+[01:48.88] All of the data's weak, half-amusing at best
+[01:51.60] But it could never work 'cause I'm an Enneatype 4 Aquarius
+[01:57.17] You say the wrong thing every time you talk
+[02:00.09] The red flags wave, the alarms sound off
+[02:03.16] I'm so glad our paths didn't cross
+[02:08.80] I'm so glad, I'll say it 'til I believe it
+[02:11.58] I wish I never
+[02:14.38] Met you, you are the
+[02:17.26] Worst thing that I'm still
+[02:19.98] Keeping tabs on for some stupid reason
+[02:22.90] You're the same with everyone
+[02:27.07] I'm not special, no
+[02:28.66] You're not out there just
+[02:31.38] Keeping tabs on how I might be feeling
+[02:35.23] That's all just imagined
+[02:38.03] I keep on believing
+[02:40.79] You care and you miss me too
+[02:43.66] I need to get over you
+[02:46.43] Oh, oh
+[02:49.35] I need to get over you
+```
