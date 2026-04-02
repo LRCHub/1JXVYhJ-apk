@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Keeping Tabs",
+  "base_artist": "NIKI",
+  "createdAt": "2026-04-02T15:24:35.886272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/01_Keeping_Tabs_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keeping Tabs (Live at The Wiltern)",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/02_Keeping_Tabs_(Live_at_The_Wiltern)_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keeping Tabs (feat. Suscat0)",
+      "artist": "Cuco feat. Suscat0",
+      "has_synced": true,
+      "path": "select/03_Keeping_Tabs_(feat._Suscat0)_Cuco_feat._Suscat0.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/04_Keeping_Tabs_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keeping Tabs (feat. Suscat0)",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/05_Keeping_Tabs_(feat._Suscat0)_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keeping Tabs (Live at The Wiltern) (Live at The Wiltern)",
+      "artist": "Niki",
+      "has_synced": true,
+      "path": "select/06_Keeping_Tabs_(Live_at_The_Wiltern)_(Live_at_The_Wiltern)_Niki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keeping Tabs at The Wiltern",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/07_Keeping_Tabs_at_The_Wiltern_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keeping Tabs (feat. Suscat0)",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/08_Keeping_Tabs_(feat._Suscat0)_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "Cuco feat. Suscat0",
+      "has_synced": true,
+      "path": "select/09_Keeping_Tabs_Cuco_feat._Suscat0.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cuco - Keeping Tabs (feat. Suscat0) (Official Music Video)",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/10_Cuco_-_Keeping_Tabs_(feat._Suscat0)_(Official_Music_Video)_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "Cuco & Suscat0",
+      "has_synced": true,
+      "path": "select/11_Keeping_Tabs_Cuco_&_Suscat0.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/12_Keeping_Tabs_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keeping Tabs (con Suscat0)",
+      "artist": "Cuco",
+      "has_synced": true,
+      "path": "select/13_Keeping_Tabs_(con_Suscat0)_Cuco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/14_Keeping_Tabs_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keeping Tabs (feat. Suscat0)",
+      "artist": "Cuco, Suscat0",
+      "has_synced": true,
+      "path": "select/15_Keeping_Tabs_(feat._Suscat0)_Cuco,_Suscat0.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keeping Tabs",
+      "artist": "NIKI",
+      "has_synced": false,
+      "path": "select/16_Keeping_Tabs_NIKI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keeping Tabs",
+      "artist": "NIKI",
+      "has_synced": false,
+      "path": "select/pl_01_Keeping_Tabs_NIKI.txt"
+    }
+  ]
+}
